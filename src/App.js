@@ -181,7 +181,7 @@ function App() {
         
         <section id="home" className="home-section">
           <div className="intro">
-            <h1>Hello, I'm Konishk Shemad</h1>
+            <h1>Hello, I'm Kanishk sharam</h1>
             <p>UI/UX Designer | Software Developer</p>
           </div>
           <div className="img">
